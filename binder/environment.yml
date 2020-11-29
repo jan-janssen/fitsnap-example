@@ -2,5 +2,5 @@ channels:
 - conda-forge
 dependencies:
 - python=3.9
-- lammps=2020.03.03=py39_openmpi_4
+- lammps=2020.10.29=py39_openmpi_1
 - fitsnap3
