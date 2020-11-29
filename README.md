@@ -7,9 +7,9 @@ of the tantalum potential uses the linear version of SNAP.
 
 #### Running this example:
 
-To run this example, use the following command in this directory:
+To run this example use mybinder: 
 
-python3 -m fitsnap3 Ta-example.in
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jan-janssen/fitsnap-example/HEAD?filepath=fitsnap.ipynb)
 
 #### Files in this Directory
 
@@ -56,8 +56,6 @@ radelem1 = 0.5 : Tantalum per-element cutoff
 type1 = Ta : Chemical symbol for element which should match training files in JSON
 quadraticflag = 0 : Quadratic SNAP is turned off, using linear SNAP
 
-See docs/TEMPLATE.in for further information on input parameters
-
 #### Tantalum data from:
 
 The JSON configurations and hyperparameters used for this example are published in:
@@ -65,6 +63,3 @@ The JSON configurations and hyperparameters used for this example are published 
 Thompson, A. P., Swiler, L. P., Trott, C. R., Foiles, S. M., & Tucker, G. J. (2015). 
 Spectral neighbor analysis method for automated generation of quantum-accurate interatomic 
 potentials. Journal of Computational Physics, 285, 316-330
-
-**Note to Developers: Make sure this example still reproduces the same results when modifying code**
-
