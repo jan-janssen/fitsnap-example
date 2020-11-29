@@ -9,7 +9,7 @@ of the tantalum potential uses the linear version of SNAP.
 
 To run this example use mybinder: 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jan-janssen/fitsnap-example/HEAD?filepath=fitsnap.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matbinder/fitsnap-example/HEAD?filepath=fitsnap.ipynb)
 
 #### Files in this Directory
 
